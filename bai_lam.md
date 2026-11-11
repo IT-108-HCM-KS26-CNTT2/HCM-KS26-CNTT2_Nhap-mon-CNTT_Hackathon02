@@ -180,8 +180,7 @@ Property :
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
 | 1 |Network  |  Failed to load resource: net::ERR_UNEXPECTED| Tại dòng số 10 của file web\index.htlm sửa đoạn `src="images/logo.png` thành `src="images/logo-coworkhub.png`|
-| 2 |Console  |  app.js:18 Uncaught ReferenceError: hienThiBangThue is not defined
-    at app.js:18:1| Chưa biết cách sửa |
+| 2 |Console  |  app.js:18 Uncaught ReferenceError: hienThiBangThue is not defined at app.js:18:1| Chưa biết cách sửa |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
 
