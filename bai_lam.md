@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên: Nguyễn Quang Thành**
 - **Lớp: CNTT2**
-- **Link repository: https://github.com/Nhap-Mon-CNTT/HCM-KS26-CNTT2_Nhap-mon-CNTT_Hackathon02.git**
+- **Link repository: https://github.com/IT-108-HCM-KS26-CNTT2/HCM-KS26-CNTT2_Nhap-mon-CNTT_Hackathon02.git**
 - **Hệ điều hành (Windows/macOS): Windows 11**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
